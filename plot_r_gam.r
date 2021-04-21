@@ -12,8 +12,8 @@ library(forecast)
 # plots showing daily, weekly and monthly
 # changes and cumulative provisioning and deprovisioning events
 # and changes in license availabilty
-# Data is aggrated and plots are built in a way for quick
-# rendering in Shiny 
+# Data is aggrated and plots are pre-built and saved quick
+# loading and rendering in Shiny 
 
 # base_log started with initial six month gsuite log license assignment events
 # 30 day log license assignment events gam script runs daily:
